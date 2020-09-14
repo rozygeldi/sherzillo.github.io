@@ -1,36 +1,36 @@
 @font-face {
     font-family: Gooddc;
-    src: url("fonts/Gooddc/GOODDC__.TTF") format("truetype");
+    src: url("GOODDC__.TTF") format("truetype");
     font-weight: normal;
 }
 
 @font-face {
     font-family: Monts-light;
-    src: url("fonts/Montserrat/Montserrat-Light.ttf") format("truetype");
+    src: url("Montserrat-Light.ttf") format("truetype");
     font-weight: normal;
 }
 
 
 @font-face {
     font-family: Monts-regular;
-    src: url("fonts/Montserrat/Montserrat-Regular.ttf") format("truetype");
+    src: url("Montserrat-Regular.ttf") format("truetype");
     font-weight: normal;
 }
 
 @font-face {
     font-family: Monts-bold;
-    src: url("fonts/Montserrat/Montserrat-Bold.ttf") format("truetype");
+    src: url("Montserrat-Bold.ttf") format("truetype");
     font-weight: bold;
 }
 
 @font-face {
     font-family: Myriad-light;
-    src: url("fonts/Myriadpro/MyriadPro-Light.otf") format("opentype");
+    src: url("MyriadPro-Light.otf") format("opentype");
     font-weight: normal;
 }
 
 @font-face {
     font-family: Myriad-bold;
-    src: url("fonts/Myriadpro/MYRIADPRO-BOLD.OTF") format("opentype");
+    src: url("MYRIADPRO-BOLD.OTF") format("opentype");
     font-weight: bold;
 }
